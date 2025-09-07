@@ -1,2 +1,2 @@
 # stock-market
-An interactive Tableau dashboard designed to track and optimize supply chain operations. It provides insights into inventory levels, order fulfillment, supplier performance, transportation efficiency, and overall supply chain costs to support data-driven decision-making.
+An interactive Tableau dashboard analyzing historical stock price data of Apple, Microsoft, Netflix, and Google. Includes moving averages, volatility, and correlation analysis to identify trends, compare performance, and uncover relationships between stock prices.
